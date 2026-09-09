@@ -45,11 +45,6 @@
 3. **요청으로 공감** — 카테고리마다 정해진 도달 기준이 있고, 학생들의 요청이 그 기준을 채웁니다.
 4. **자동 전달·공식 답변** — 기준을 넘긴 건의는 담당 부서로 전달되고, 검토 후 공식 답변이 달립니다.
 
-## 저장소
-
-| 저장소 | 하는 일 | 스택 |
-| --- | --- | --- |
-| [Skhu-Connect-FE](https://github.com/Skhu-Connect/Skhu-Connect-FE) | 학생 웹 · iOS 앱 · 관리자 콘솔 | React 19 · Vite · Tailwind CSS v4 · Expo |
 | Skhu-Connect-BE *(비공개)* | API 서버 · 인증 · 알림 | Java 17 · Spring Boot · JPA · MySQL · FCM |
 
 <div align="center">
